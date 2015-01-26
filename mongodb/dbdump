@@ -1,0 +1,9 @@
+connected to: 127.0.0.1
+2015-01-25T17:51:04.968+0100 all dbs
+2015-01-25T17:51:04.970+0100 DATABASE: test	 to 	dump/test
+2015-01-25T17:51:04.974+0100 	test.system.indexes to dump/test/system.indexes.bson
+2015-01-25T17:51:04.978+0100 		 1 documents
+2015-01-25T17:51:04.978+0100 	test.person to dump/test/person.bson
+2015-01-25T17:51:04.981+0100 		 3 documents
+2015-01-25T17:51:04.981+0100 	Metadata for test.person to dump/test/person.metadata.json
+2015-01-25T17:51:04.981+0100 DATABASE: admin	 to 	dump/admin
